@@ -1,0 +1,206 @@
+{
+  "basics": {
+    "name": "Patrick van Staveren",
+    "label": "Global Head of IT Infrastructure at Mintel",
+    "picture": "",
+    "email": "trick@vanstaveren.us",
+    "phone": "",
+    "website": "",
+    "summary": "Leader, software developer, systems engineer, network administrator and all-around techie nerd.  My passion might be systems, but I love managing people and learning how to help them to achieve big goals.\n\nIn my spare time over the years I've worked with several free software projects, enjoy outdoor activities, photography, and high-altitude ballooning.\nFollow me on Github: https://github.com/trickv/\nRead more about my personal projects: http://trick.vanstaveren.us/",
+    "location": {
+      "countryCode": "US",
+      "address": "Chicago, Illinois"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "patrick-van-staveren-7208364",
+        "url": "https://www.linkedin.com/in/patrick-van-staveren-7208364/"
+      },
+      {
+        "network": "Twitter",
+        "username": "trickv",
+        "url": "https://twitter.com/trickv"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Mintel",
+      "endDate": "",
+      "highlights": [],
+      "position": "Global Head of IT Infrastructure",
+      "startDate": "2019-05-31",
+      "summary": "Continuing the same role I've been doing but from a new locale!",
+      "website": "https://www.linkedin.com/company/mintel/"
+    },
+    {
+      "company": "Mintel",
+      "endDate": "2019-05-31",
+      "highlights": [],
+      "position": "Global Head of IT Infrastructure",
+      "startDate": "2015-07-31",
+      "summary": "Responsible for IT Infrastructure team globally, looking after all servers and networks for all our offices.\nLed datacenter migration project moving our primary datacenter across London.\nGrown Infrastructure team from 5 to 10 members based in London and Chicago.\nFocused team on continuous learning to improve service reliability and reduce out-of-hours calls.\nWorking with key vendors who provide infrastructure services.",
+      "website": "https://www.linkedin.com/company/mintel/"
+    },
+    {
+      "company": "Mintel",
+      "endDate": "2015-07-31",
+      "highlights": [],
+      "position": "Head of IT, APAC and Global Head of IT Infrastructure",
+      "startDate": "2013-09-30",
+      "summary": "Continued to manage IT in APAC whilst taking over Global IT Infrastructure role.\nTook over Global Infrastructure team overseeing staff in London and Chicago, managing all servers and networks across the company.\nDeveloped staff to focus on continuous delivery software deployment systems to bring value to clients faster.\nLed IT work on larger office relocation projects ranging from 15 to 75 seats.\nWorked with architects to design M&E floor plans and advised on experience from other Mintel locations across the globe.",
+      "website": "https://www.linkedin.com/company/mintel/"
+    },
+    {
+      "company": "Mintel",
+      "endDate": "2013-09-30",
+      "highlights": [],
+      "position": "Head of IT, APAC",
+      "startDate": "2011-06-30",
+      "summary": "Oversaw and managed all IT teams in APAC including software development and IT support for the region.\nManaged growth of IT footprint as we expanded from three to six offices in APAC.\nLed office installation and relocation projects for satellite offices.\nTook special interest in network administration to facilitate IT service delivery on behalf of London-based Infrastructure team.",
+      "website": "https://www.linkedin.com/company/mintel/"
+    },
+    {
+      "company": "Mintel",
+      "endDate": "2011-05-31",
+      "highlights": [],
+      "position": "AVP of US Software Development",
+      "startDate": "2011-01-31",
+      "summary": "Managing IT project managers in our Chicago-based software development team and implementing global department strategy.",
+      "website": "https://www.linkedin.com/company/mintel/"
+    },
+    {
+      "company": "Mintel",
+      "endDate": "2011-01-31",
+      "highlights": [],
+      "position": "IT Project Manager",
+      "startDate": "2007-09-30",
+      "summary": "Managed small international team of developers working on field associate data entry system.\nWorked with major clients to deliver customized web deliverables including advising on project setup and proposals.\nContinued to develop websites and expanding skills to include unit testing, continuous integration and Python programming.",
+      "website": "https://www.linkedin.com/company/mintel/"
+    },
+    {
+      "company": "Mintel",
+      "endDate": "2007-08-31",
+      "highlights": [],
+      "position": "Software Developer",
+      "startDate": "2006-09-30",
+      "summary": "PHP/MySQL web developer working on Mintel field associate data collection and presentation systems.",
+      "website": "https://www.linkedin.com/company/mintel/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Western Michigan University",
+      "area": "Computer Science, Mathematics",
+      "studyType": "Batchelor of Science",
+      "startDate": "2002-12-31",
+      "endDate": "2006-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "People Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mintel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Configuration Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Payment Card Industry Data Security Standard (PCI DSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Powershell DSC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shell Scripting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cfengine",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Email System Administration",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
